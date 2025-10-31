@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313403861662",
+    "project_id": "checkexercise-de42f",
+    "storage_bucket": "checkexercise-de42f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313403861662:android:496c0f96eef60091c4a98f",
+        "android_client_info": {
+          "package_name": "com.example.smartfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCduNP5h80bOmZzgdTgTmrUXARr8KngUxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
